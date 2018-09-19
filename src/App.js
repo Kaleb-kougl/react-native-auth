@@ -8,7 +8,8 @@ import LoginForm from './components/LoginForm';
 class App extends Component {
     componentWillMount() {
         firebase.initializeApp({
-            //TODO
+            //MAKE SURE TO DELETE THIS BEFORE COMMITING
+            
           });
     }
 
